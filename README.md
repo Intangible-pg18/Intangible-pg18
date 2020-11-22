@@ -16,11 +16,9 @@ https://www.instagram.com/hec_boy070/
 
 ### Connect with me:
 
-[<img align="left" alt="Intangible_pg18 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="prateek-shukla-34267718b | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="hec_boy070 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+<a href="https://twitter.com/Intangible_pg18">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"
+width="22px">
 
 ### Languages and Tools:
 
