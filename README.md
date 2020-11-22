@@ -14,7 +14,7 @@ I am a certified Linux Administrator who is self motivated, confident and hardwo
 
 ### Connect with me:
 
-<a href="https://twitter.com/Intangible_pg18"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"width="22px">
+<a href="https://twitter.com/Intangible_pg18"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="22px">
 
 ### Languages and Tools:
 
