@@ -1,6 +1,6 @@
 ## Hi there, I'm Prateek - aka Eddie👋
 
-I am a certified Linux Administrator who is self motivated, confident and hardworking practitioner of cutting edge technologies. I am passionate about dealing with Machine Learning problems and contribute my part in growing this field. I am also interested in Computer Vision and combining the power of AI and CV to upscale the production of automotive transportation and visual security.
+I am a certified Linux Administrator who is self motivated, confident and hardworking practitioner of cutting edge technologies. I am passionate about dealing with Machine Learning problems and contribute my part in growing this field. My major interest is in Computer Vision and my ultimate goal is to combine the power of Artificial Intelligence and Computer Vision to upscale the production of automotive transportation and visual security. 
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other **ML** enthusiasts
