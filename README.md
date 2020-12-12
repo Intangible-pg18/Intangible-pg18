@@ -5,7 +5,7 @@ I am a certified Linux Administrator who is self motivated, confident and hardwo
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other **ML** enthusiasts
 - 🥅 2020 Goals: Take the next step towards **Data Science**
-- 🥅 2021 Goals: Contribute to *Open Source projects*
+- 🥅 2021 Goals: Contribute to *Open Source data science projects*
 - ⚡ Fun fact: I love to pass on my knowledge to others and play open world games like *Watch Dogs*
 
 ### Spotify Playing 🎧
