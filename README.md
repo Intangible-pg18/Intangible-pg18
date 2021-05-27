@@ -3,7 +3,7 @@
 I am a self motivated, confident and hardworking certified Linux Administrator. I have a thorough and methodical understanding of various descriptive and inferential statistical concepts. I am passionate about dealing with Machine Learning problems and contribute my part in growing this field. My major interest is in Computer Vision and my ultimate goal is to combine the power of Artificial Intelligence and Computer Vision to upscale the production of automotive transportation and visual security. 
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other **ML** enthusiasts
+- 👯 I’m looking to collaborate with other **Data Sience and ML** enthusiasts
 - 🥅 2021 Goals: Get a good internship and Contribute to *Open Source data science projects*
 - ⚡ Fun fact: I love to pass on my knowledge to others and play open world games like *Watch Dogs*
 
