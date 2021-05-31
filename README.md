@@ -1,4 +1,4 @@
-## Hi there, I'm Prateek - <But call me Eddie> 👋
+## Hi there, I'm Prateek - 👋
 
 I am a self motivated, confident and hardworking certified Linux Administrator. I have a thorough and methodical understanding of various descriptive and inferential statistical concepts. I am passionate about dealing with Machine Learning problems and contribute my part in growing this field. My major interest is in Computer Vision and my ultimate goal is to combine the power of Artificial Intelligence and Computer Vision to upscale the production of automotive transportation and visual security. 
 
