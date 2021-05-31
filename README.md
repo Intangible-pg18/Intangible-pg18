@@ -4,7 +4,7 @@ I am a self motivated, confident and hardworking certified Linux Administrator. 
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other **Data Sience and ML** enthusiasts
-- 🥅 2021 Goals: Get a good internship and Contribute to *Open Source data science projects*
+- 🥅 2021 Goals: Get a productive internship and Open Source Contribution in Data science and Machine Learning domain
 - ⚡ Fun fact: I love to pass on my knowledge to others and play open world games like *Watch Dogs*
 
 ### Spotify Playing 🎧
