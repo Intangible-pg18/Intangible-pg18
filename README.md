@@ -1,6 +1,6 @@
-## Hi there, I'm Prateek - 👋
+## Hi there, I'm Prateek  👋
 
-I am a self motivated, confident and hardworking certified Linux Administrator. I have a thorough and methodical understanding of various descriptive and inferential statistical concepts. I am passionate about dealing with Machine Learning problems and contribute my part in growing this field. My ultimate goal is to combine the power of Artificial Intelligence and Computer Vision to upscale the production of self driven transportation and visual security. 
+A self motivated, confident and hardworking data lover, with a thorough and methodical understanding of various descriptive and inferential statistical concepts. I am passionate about dealing with Machine Learning problems and contribute my part in growing this field. My ultimate goal is to combine the power of Artificial Intelligence and Computer Vision to upscale the production of self driven transportation and visual security.
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other **Data Sience and ML** enthusiasts
