@@ -1,5 +1,6 @@
 ## Hi there, I'm Prateek  👋
 
+<img width="250px" height="150px" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 A self motivated, confident and hardworking data lover, with a thorough and methodical understanding of various descriptive and inferential statistical concepts. I am passionate about dealing with Machine Learning problems and contribute my part in growing this field. My ultimate goal is to combine the power of Artificial Intelligence and Computer Vision to upscale the production of self driven transportation and visual security.
 
 - 🌱 I’m currently learning everything 🤣
