@@ -8,9 +8,9 @@ A self motivated, confident and hardworking data lover, with a thorough and meth
 - 🥅 2021 Goals: Get a productive internship and Open Source Contribution in Data science and Machine Learning domain
 - ⚡ Fun fact: I love to pass on my knowledge to others and play open world games like *Watch Dogs 2* and *Tom Clancy's The Division 2*
 
-### Spotify Playing 🎧
+### My GitHub Status
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Intangible-pg18&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Intangible-pg18&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
     
 ### Languages and Tools:
 
