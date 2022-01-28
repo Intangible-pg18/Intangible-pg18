@@ -5,7 +5,7 @@ A self motivated, confident and hardworking data lover, with a thorough and meth
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other **Data Sience and ML** enthusiasts
-- 🥅 2021 Goals: Get a productive internship and Open Source Contribution in Data science and Machine Learning domain
+- 🥅 2022 Goals: Get a productive internship and Open Source Contribution in Data science and Machine Learning domain
 - ⚡ Fun fact: I love to pass on my knowledge to others and play open world games like *Watch Dogs 2* and *Tom Clancy's The Division 2*
 
 ### My GitHub Status
