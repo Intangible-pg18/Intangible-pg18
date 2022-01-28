@@ -10,7 +10,7 @@ A self motivated, confident and hardworking data lover, with a thorough and meth
 
 ### My GitHub Status
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Intangible-pg18&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Intangible-pg18&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Intangible-pg18&show_icons=true&theme=vision-friendly-dark&count_private=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Intangible-pg18&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
     
 ### Languages and Tools:
 
