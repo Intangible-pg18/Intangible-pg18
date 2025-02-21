@@ -7,7 +7,7 @@ With experience in Javascript, Node.js, Express.js, REST API, Web scraping, MySQ
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to dive into the world of Open Source Contribution
-- 🥅 2023 Goals: Become well versed with the commons norms of Backend Engineering and System Design
+- 🥅 2025 Goals: Get a better job
 - ⚡ Fun fact: I love to pass on my knowledge to others and play open world games like *Watch Dogs 2* and *Tom Clancy's The Division 2*
 
 ### My GitHub Status
