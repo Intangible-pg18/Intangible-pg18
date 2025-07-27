@@ -29,4 +29,4 @@ With experience in Javascript, Node.js, Express.js, REST API, Web scraping, Post
 
 ### Connect with me:
 
-<a href="https://twitter.com/Intangible_pg18"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="22px"/>    <a href="https://www.linkedin.com/in/prateek-shukla-34267718b"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px"/>
+<a href="https://www.linkedin.com/in/prateek-shukla-34267718b"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px"/>
