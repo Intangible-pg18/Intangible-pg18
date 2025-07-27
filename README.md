@@ -29,4 +29,4 @@ With experience in Javascript, Node.js, Express.js, REST API, Web scraping, Post
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/prateek-shukla-34267718b"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn–Prateek%20Shukla-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prateek-shukla-34267718b)
