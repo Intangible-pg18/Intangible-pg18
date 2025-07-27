@@ -3,10 +3,10 @@
 <img width="250px" height="150px" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 As a highly self-motivated, confident, and hardworking Backend Developer, I possess a thorough and methodical understanding of various Backend Engineering concepts. My unwavering passion for dealing with complex Backend Development problems fuels my desire to contribute to the growth and innovation of this dynamic field.
 
-With experience in Javascript, Node.js, Express.js, REST API, Web scraping, MySQL, Azure and C++, I have acquired a comprehensive skill set that enables me to deliver exceptional results. I approach each project with a meticulous attention to detail, and I am committed to delivering top-notch solutions that exceed expectations.
+With experience in Javascript, Node.js, Express.js, REST API, Web scraping, PostgreSQL, Azure Cloud and C++, I have acquired a comprehensive skill set that enables me to deliver exceptional results. I approach each project with a meticulous attention to detail, and I am committed to delivering top-notch solutions that exceed expectations.
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to dive into the world of Open Source Contribution
+- 👯 I’m looking to dive into the world of LLMs
 - 🥅 2025 Goals: Get a better job
 - ⚡ Fun fact: I love to pass on my knowledge to others and play open world games like *Watch Dogs 2* and *Tom Clancy's The Division 2*
 
